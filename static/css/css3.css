@@ -1,0 +1,17 @@
+img{
+    width: 100px;
+    height: 150;
+    padding: 5 5 5 5;
+}
+body{
+    text-align: center;
+    font-family: Perpetua;
+}
+h1{
+    font-size: xx-large;
+}
+.bigd{
+    width: 345;
+    height: 485;
+    margin: auto;
+}
